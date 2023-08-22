@@ -8,7 +8,6 @@ Contents:
 - Solutions
 - Usage
 - Contributing
-- License
 
 ## About:
 
@@ -30,5 +29,5 @@ Contributions are welcome! If you've found a better solution to a problem or wan
 
 If you'd like to report an issue or suggest an improvement, please use the GitHub issue tracker.
 
-Happy coding!!
-Be Happy Do Coding!!!
+## Happy coding!!
+## Be Happy Do Coding!!!
