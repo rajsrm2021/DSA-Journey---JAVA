@@ -11,7 +11,7 @@ Contents:
 
 ## About:
 
-In this repository, you'll find Java solutions to a variety of DSA problems sourced from LeetCode and Geeks for Geeks. The main goal of this repository is to showcase my problem-solving skills and provide a helpful resource for others learning or practicing DSA.
+In this repository, you'll find and get Java solutions to a variety of DSA problems sourced from LeetCode and Geeks for Geeks. The main goal of this repository is to showcase my problem-solving skills and provide a helpful resource for others learning or practicing DSA.
 
 ## Solutions:
 
