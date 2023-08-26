@@ -1,6 +1,6 @@
 # DSA Solutions Repository
 
-## Welcome to my DSA (Data Structures and Algorithms) solutions repository! This repository contains my solutions to various LeetCode and Geeks for Geeks problems, implemented in Java.
+## Welcome to my DSA (Data Structures and Algorithms) solutions repository! This repository contains my solutions to various LeetCode and Geeks for Geeks problems, implemented in Java and C++.
 
 Contents:
 
