@@ -102,3 +102,52 @@ class Solution2
 }
 
 
+//  variation of 0/1 knapsack is cutting rod
+// link : https://practice.geeksforgeeks.org/problems/rod-cutting0840/1
+
+class Solution{
+    
+    public int helper(int val[], int[] wt, int remaning, int n, int dp[][]){
+        
+        // base case
+        if(n==0 || remaning==0) return 0;
+        
+        if(dp[n][remaning] != -1) return dp[n][remaning] ;
+        
+        // two cases 
+        // include and not to include
+        // If the weight of the current piece is greater than the remaining length (N),
+        // we can't include it in the solution
+        if (wt[n - 1] > remaning) {
+            return dp[n][remaning] = helper(val, wt, remaning, n - 1, dp);
+        }
+        // Find the maximum value by either including or excluding the current piece
+        int include = val[n - 1] + helper(val, wt, remaning - wt[n - 1], n, dp);
+        int exclude = helper(val, wt, remaning, n - 1, dp);
+        
+        
+        return dp[n][remaning] = Math.max(include, exclude);
+        
+        
+    }
+    public int cutRod(int price[], int n) {
+        //code here
+        
+        
+		int len[] = new int[n]; // weight  // price == value
+		int dp[][] = new int[n+1][n+1];
+		
+		for(int i=0;i<=n;i++){
+		    Arrays.fill(dp[i],-1);
+		}
+		
+		
+        for(int i=0;i<n;i++){
+            len[i] = i+1;
+        }
+        
+        return helper(price, len, n, n, dp);
+        
+        
+    }
+}
