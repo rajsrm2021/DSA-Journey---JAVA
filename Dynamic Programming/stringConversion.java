@@ -1,3 +1,5 @@
+// variation of edit distance 
+
 public class stringConversion {
 
     public static int helper_LCS(String str1, String str2, int n, int m, int dp[][]){
@@ -40,7 +42,6 @@ public class stringConversion {
          return delete+insert;
     }
 
-
     public static void main(String args[]){
 
         String s1 = "abcedf";
@@ -48,5 +49,5 @@ public class stringConversion {
 
         System.out.println("Total insertion and deletion opertion are : "+helper(s1, s2, s1.length(), s2.length()));
     }
-    
+
 }
