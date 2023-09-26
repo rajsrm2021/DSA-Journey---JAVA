@@ -2,6 +2,29 @@ import java.util.*;
 
 public class implementation {
 
+    public static void BFS_algo(ArrayList<Edge> graph[]){
+
+        Queue<Integer> q = new LinkedList<>();
+        boolean visited[] = new boolean[graph.length];
+
+        q.add(3);
+
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            
+            if(!visited[curr]){
+                System.out.print(curr+" ");
+                visited[curr] = true;
+
+                for(int i=0;i<graph[curr].size();i++){
+                    Edge e = graph[curr].get(i);
+                    q.add(e.dest);
+                }
+
+            }
+        }
+    }
+
     public static void main(String args[]) {
 
         int vertex = 5;
@@ -32,6 +55,8 @@ public class implementation {
             Edge data = graph[2].get(i);
             System.out.println(data.dest);
         }
+
+        BFS_algo(graph);
 
     }
 }
