@@ -27,9 +27,6 @@ public class BFS {
         }
     }
 
-    public class implementation {
-        public implementation() {
-        }
+    
 
-}
 }
