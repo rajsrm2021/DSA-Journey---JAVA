@@ -31,9 +31,7 @@ public class Main
                     break;
                 }
                 System.out.print(matrix[i][startcol]+" ");
-            }
-            
-            
+            }  
             startrow++;
             endrow--;
             startcol++;
@@ -49,3 +47,4 @@ public class Main
 		printSpiral(matrix);
 	}
 }
+
