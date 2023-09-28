@@ -2,54 +2,16 @@ import java.util.*;
 
 public class Cycle {
 
-    public static void BFS(ArrayList<Edge> graph[]) { // This function is created for doing DFS for unconnected graph
-                                                      // also
-
-        boolean visited[] = new boolean[graph.length];
-
-        for (int i = 0; i < graph.length; i++) {
-
-            if (!visited[i]) {
-                BFS_Util(graph, visited);
-            }
-
-        }
-
-    }
-
-    public static void BFS_Util(ArrayList<Edge> graph[], boolean[] visited) { // this is helper function for DFS
-
-        Queue<Integer> q = new LinkedList<>();
-
-        q.add(0);
-
-        while (!q.isEmpty()) {
-            int curr = q.poll();
-
-            if (!visited[curr]) {
-                System.out.print(curr + " ");
-                visited[curr] = true;
-
-                for (int i = 0; i < graph[curr].size(); i++) {
-                    Edge e = graph[curr].get(i);
-                    q.add(e.dest);
-                }
-
-            }
-        }
-    }
-
     public static boolean isCycle(ArrayList<Edge> graph[]) {
         boolean visited[] = new boolean[graph.length];
 
         for (int i = 0; i < graph.length; i++) {
             if (!visited[i]) {
-                if (isCycle_Util(graph, i, visited, -1)) { // jis node se suruwaq karte hai uska parient nhi hota
+                if (isCycle_Util(graph, i, visited, -1)) { // jis node se start karte hai uska parient nhi hota
                     return true;
                     // cycle exit in one of its parts
                 }
             }
-
         }
         return false;
 
@@ -105,9 +67,6 @@ public class Cycle {
         graph[3].add(new Edge(3, 4));
 
         graph[4].add(new Edge(4, 3));
-
-        // System.out.print("BFS IS :");
-        // BFS(graph);
 
         System.out.println();
 
