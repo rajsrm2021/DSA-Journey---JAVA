@@ -30,7 +30,7 @@ public class topologicalSort {
         }
         // BFS 
         while(!q.isEmpty()){
-            int curr = q.remove();
+            int curr = q.poll();
             System.out.print(curr + " ");// topological sort print
 
            for(int i=0;i<graph[curr].size();i++){
