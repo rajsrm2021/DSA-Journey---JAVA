@@ -1,4 +1,4 @@
-public class Solution {
+public class four {
     public int removeDuplicates(int[] nums) {
         int uniqueCount = 0;
         
