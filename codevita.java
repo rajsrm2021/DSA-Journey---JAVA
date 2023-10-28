@@ -34,17 +34,17 @@ public class codevita {
     }
 
     private static int findSmallestPrime(Set<Integer> numbers, int q) {
-        int num = q + 1;
-        int limit = 10000000; // 10^10
-        while (true) {
-            if (num >= limit) {
-                return -1; // If num exceeds the limit, return -1
-            }
-            if (isPrime(num) && isSastify(numbers, num, q)) {
-                return num;
-            }
-            num++;
+    int num = q + 1;
+    int limit = 10000000; // 10^10
+    while (true) {
+        if (num >= limit) {
+            return -1; // If num exceeds the limit, return -1
         }
+        if (isPrime(num) && isSatisfyCondition(numbers, num, q)) {
+            return num;
+        }
+        num++;
+    }
       
     
 
