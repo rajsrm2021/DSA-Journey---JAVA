@@ -4,6 +4,7 @@ public class hashing {
 
     public static void main(String args[]){
 
+
         int arr[] = {1,2,3,4,5,1,2,3,11,1,1,1,1};
 
         Map<Integer,Integer> map = new HashMap<>();
