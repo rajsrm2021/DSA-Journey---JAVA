@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class bit {
     public static void main(String args[]) {
@@ -13,5 +13,17 @@ public class bit {
         } else {
             System.out.println("odd");
         }
+
+        // swapping using bit method i.e. using XOR operation
+
+        int r = 10;
+        int m = 11;
+
+        r = r ^ m;
+        m = r ^ m;
+        r = r ^ m;
+
+        System.out.println(r);
+        System.out.println(m);
     }
 }
