@@ -19,7 +19,7 @@ public class bit {
         int r = 10;
         int m = 11;
 
-        r = r ^ m;
+        r = r ^ m; // XOR Operations
         m = r ^ m;
         r = r ^ m;
 
