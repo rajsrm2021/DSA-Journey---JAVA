@@ -8,10 +8,10 @@ public class bit {
 
         // performing and operation
 
-        if ((n & mask) == 0) {
+        if ((n & ma sk) == 0) {
             System.out.println("0");
         } else {
             System.out.println("1");
         }
     }
-}
+}                                               

@@ -23,7 +23,7 @@ public class bit {
         m = r ^ m;
         r = r ^ m;
 
-        System.out.println(r);
+            System.out.println(r);
         System.out.println(m);
     }
-}
+}       

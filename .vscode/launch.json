@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/LeetCode/Dsa_Meghana_C++",
-      "program": "d:/LeetCode/Dsa_Meghana_C++/build/Debug/outDebug",
+      "cwd": "d:/LeetCode",
+      "program": "d:/LeetCode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
