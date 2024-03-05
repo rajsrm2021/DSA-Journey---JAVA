@@ -43,6 +43,38 @@ public class linkedlist {
 
     }
 
+    static Node deleteHead(Node head) {
+        head = head.next;
+        return head;
+    }
+
+    static Node deleteTail(Node head) {
+        Node temp = head;
+
+        while (temp.next.next != null) {
+            temp = temp.next;
+        }
+
+        temp.next = null;
+
+        return head;
+
+    }
+
+    static Node deleteMiddle(Node head, int pos) {
+
+        Node temp = head;
+
+        for (int i = 0; i < pos - 1; i++) {
+            temp = temp.next;
+        }
+
+        temp.next = temp.next.next;
+
+        return head;
+
+    }
+
     public static void main(String args[]) {
 
         Node l1 = new Node(1);
@@ -60,6 +92,12 @@ public class linkedlist {
         Node new2 = insertAtLast(head, new Node(10));
 
         Node new3 = insertAtMiddle(head, new Node(33), 3);
+
+        head = deleteHead(head);
+
+        head = deleteTail(head);
+
+        head = deleteMiddle(head, 1);
 
         Node temp = head;
 
