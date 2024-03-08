@@ -27,6 +27,17 @@ public class stack {
 
     }
 
+    public static boolean isEmpty(node head) {
+        if (head == null) {
+            return true;
+        }
+        return false;
+    }
+
+    public static int peek(node head) {
+        return head.data;
+    }
+
     public static void main(String[] args) {
 
         node l1 = new node(1);
@@ -46,6 +57,14 @@ public class stack {
         System.out.println();
 
         System.out.println(pop(l1)); // pop operation
+
+        // isEmpty operation
+
+        System.out.println(isEmpty(updatedHead));
+
+        // peek operation
+
+        System.out.println(peek(updatedHead));
 
     }
 
