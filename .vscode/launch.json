@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "double_linkedlist",
+      "request": "launch",
+      "mainClass": "double_linkedlist",
+      "projectName": "LeetCode_867e6f8e"
+    },
+    {
+      "type": "java",
+      "name": "linkedlist",
+      "request": "launch",
+      "mainClass": "Scratch.linkedlist",
+      "projectName": "LeetCode_867e6f8e"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

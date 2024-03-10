@@ -100,11 +100,16 @@ public class linkedlist {
         head = deleteMiddle(head, 1);
 
         Node temp = head;
-
+        int count = 0;
         while (temp != null) {
             System.out.print(temp.data + " ");
             temp = temp.next;
+            count++;
+
         }
+        System.out.println();
+
+        System.out.println(count);
     }
 
 }
