@@ -1,6 +1,6 @@
 # DSA Solutions Repository
 
-<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username={your_username}" width="100%">
+<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username={Raj2060}" width="100%">
 
 ## Welcome to my DSA (Data Structures and Algorithms) solutions repository! This repository contains my solutions to various LeetCode and Geeks for Geeks problems, implemented in Java and C++.
 
