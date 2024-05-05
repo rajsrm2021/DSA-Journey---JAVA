@@ -2,7 +2,8 @@
 
 Welcome to my DSA (Data Structures and Algorithms) solutions repository! This repository contains my solutions to various LeetCode and Geeks for Geeks problems, implemented in Java and C++.
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/raj2060?theme=nord&font=Noto%20Serif%20Hebrew)](https://leetcard.jacoblin.cool/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/raj2060?theme=unicorn&font=Annie%20Use%20Your%20Telescope&ext=heatmap)
+
 
 ## Overview
 
