@@ -1,3 +1,5 @@
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 public class tree {
@@ -22,11 +24,11 @@ public class tree {
         }
 
         root = new Node(data);
-        System.out.println("enter left data" + data);
+        System.out.println("enter left data - > " + data);
 
         root.left = createTree();
 
-        System.out.println("enter right data" + data);
+        System.out.println("enter right data - > " + data);
 
         root.right = createTree();
 
@@ -43,10 +45,37 @@ public class tree {
         inOrder(root.right);
     }
 
+    public static void levelOrder(Node root) {
+        Queue<Node> q = new LinkedList<>();
+        q.add(root);
+        q.add(null);
+
+        while (!q.isEmpty()) {
+            Node curr = q.poll();
+
+            if (curr == null) {
+                if (q.isEmpty()) {
+                    return;
+                }
+                q.add(null);
+                System.out.println();
+            } else {
+                System.out.print(curr.data + " ");
+
+                if (curr.left != null) {
+                    q.add(curr.left);
+                }
+                if (curr.right != null) {
+                    q.add(curr.right);
+                }
+            }
+        }
+    }
+
     public static void main(String[] args) {
 
         Node data = createTree();
-        inOrder(data);
+        levelOrder(data);
 
     }
 }
