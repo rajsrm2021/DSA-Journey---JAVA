@@ -3,17 +3,22 @@ class Solution {
 
         if(s.length()!=t.length()) return false;
 
-       char[] arr1 = s.toCharArray();
-       char[] arr2 = t.toCharArray();
-        
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
+       HashMap<Character,Integer> map = new HashMap<>();
 
-        for(int i=0;i<arr1.length;i++){
-            if(arr1[i]!=arr2[i]){
-                return false;
-            }
+       for(int i=0;i<s.length();i++){
+        map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+       }
+
+       for(int i=0;i<t.length();i++){
+        map.put(t.charAt(i),map.getOrDefault(t.charAt(i),0)-1);
+       }
+
+       for(Map.Entry<Character,Integer> entry: map.entrySet()){
+        if(entry.getValue()!=0){
+            return false;
         }
-        return true;
+       }
+
+       return true;
     }
 }
