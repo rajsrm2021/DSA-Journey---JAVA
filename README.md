@@ -17,12 +17,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0498-diagonal-traverse) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
