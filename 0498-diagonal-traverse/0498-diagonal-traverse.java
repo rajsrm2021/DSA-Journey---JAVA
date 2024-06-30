@@ -24,7 +24,13 @@ class Solution {
 
             res.addAll(temp);
         }
-        return res.stream().mapToInt(i -> i).toArray();
+        // Convert List to array
+        int[] resultArray = new int[res.size()];
+        for (int i = 0; i < res.size(); i++) {
+            resultArray[i] = res.get(i);
+        }
+        
+        return resultArray;
         
     }
 }
