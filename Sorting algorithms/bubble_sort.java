@@ -1,36 +1,31 @@
-
 public class bubble_sort {
+    public static void main(String[] args) {
+        int arr[] = { 2, 3, 9, 1, 6, 16 };
+        int temp;
+        System.out.print("Array befort sort");
+        System.out.println();
 
-    public static void sort(int arr[]) {
+        for (int i : arr) {
+            System.out.print(i + " ");
+        }
 
-        for (int j = 0; j < arr.length - 1; j++) {
-            for (int i = 0; i < arr.length - j - 1; i++) {
-
-                if (arr[i] > arr[i + 1]) {
-                    // swap using xor
-                    arr[i] ^= arr[i + 1];
-                    arr[i + 1] ^= arr[i];
-                    arr[i] ^= arr[i + 1];
-
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr.length - i - 1; j++) {
+                if (arr[j] > arr[j + 1]) {
+                    // swap
+                    temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
                 }
-
             }
         }
-    }
 
-    public static void printArr(int arr[]) {
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
+        System.out.println();
+        System.out.println("Array after sort");
+
+        for (int i : arr) {
+            System.out.print(i + " ");
         }
-    }
-
-    public static void main(String args[]) {
-
-        int arr[] = { 1, 2, 4, 55, 2, 66, 3, 1, 6 };
-
-        sort(arr);
-
-        printArr(arr);
 
     }
 }
