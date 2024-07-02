@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0498-diagonal-traverse) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
