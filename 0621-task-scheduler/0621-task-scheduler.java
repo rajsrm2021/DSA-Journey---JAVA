@@ -16,6 +16,7 @@ class Solution {
         int interval = 0;
 
         while(!pq.isEmpty()){
+            
             List<Integer> temp = new ArrayList<>();
 
             int cycle = n+1;
