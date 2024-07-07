@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
+| [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0498-diagonal-traverse) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [1293-three-consecutive-odds](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Matrix
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Monotonic Stack
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -85,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2645-pass-the-pillow) |
+## Binary Search
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
