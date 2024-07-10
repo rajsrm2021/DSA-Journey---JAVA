@@ -5,12 +5,11 @@ class Solution {
 
         for (int i = 0; i < logs.length; i++) {
 
-            if (logs[i].equals("../") ) {
+            if (logs[i].equals("../")) {
                 count--;
-                if(count<0){
-                    count=0;
+                if (count < 0) {
+                    count = 0;
                 }
-
             } else if (logs[i].equals("./")) {
                 continue;
             } else {
