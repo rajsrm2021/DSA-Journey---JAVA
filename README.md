@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [1293-three-consecutive-odds](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1803-average-waiting-time) |
 ## Matrix
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0155-min-stack) |
+| [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0071-simplify-path) |
+| [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
 | ------- |
