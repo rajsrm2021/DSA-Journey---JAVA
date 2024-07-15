@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
+| [3463-alternating-groups-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/3463-alternating-groups-i) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [3463-alternating-groups-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/3463-alternating-groups-i) |
 ## Bucket Sort
 |  |
 | ------- |
