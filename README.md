@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0155-min-stack) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
 ## Design
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0071-simplify-path) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
