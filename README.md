@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0498-diagonal-traverse) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [2645-pass-the-pillow](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
