@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
