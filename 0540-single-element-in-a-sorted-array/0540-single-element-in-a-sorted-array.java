@@ -1,18 +1,28 @@
 class Solution {
+    // if element is sorted means the pair is always there if mid is even and arr[mid]==arr[mid+1]
+    // then elemet in left side is alys not duplicat 
+    // ans will be in right side
     public int singleNonDuplicate(int[] nums) {
 
-        Map<Integer,Integer> map = new HashMap<>();
+        int start = 0;
+        int end= nums.length-1;
+        
+        while(start< end){
 
-        for(int num:nums){
-            map.put(num,map.getOrDefault(num,0)+1);
-        }
+            int mid = start + (end-start)/2;
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() == 1) {
-                return entry.getKey();
+            if(mid%2==1) mid--;  // checking even odd condition
+
+            if(nums[mid] == nums[mid+1]){
+                start = mid+2;
+            }else{
+                end = mid;
             }
+
         }
-        return -1;
+
+        return nums[start];
+
         
     }
 }
