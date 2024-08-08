@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Greedy
 |  |
 | ------- |
@@ -160,12 +161,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
