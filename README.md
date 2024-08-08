@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3463-alternating-groups-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/3463-alternating-groups-i) |
 ## Bucket Sort
 |  |
