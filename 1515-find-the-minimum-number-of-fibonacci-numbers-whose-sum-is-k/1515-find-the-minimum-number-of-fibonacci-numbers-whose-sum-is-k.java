@@ -16,6 +16,7 @@ class Solution {
         return result;
     }
 
+    // finding the floor value
     public int binarySearch(List<Long> list, long k) {
         int left = 0;
         int right = list.size() - 1;
