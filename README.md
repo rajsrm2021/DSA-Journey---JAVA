@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0057-insert-interval) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
