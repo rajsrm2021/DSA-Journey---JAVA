@@ -1,33 +1,44 @@
-import java.util.Arrays;
-
 class Solution {
+
+    private int slidingWindow(int[] nums, int D){
+        int i=0;
+        int j = 1;
+
+        int n = nums.length;
+        int pairCount = 0;
+
+        while(j<n){
+            while(nums[j] - nums[i] > D){
+                i++;
+            }
+            pairCount += (j - i);
+            j++;
+        }
+
+        return pairCount;
+    }
+
     public int smallestDistancePair(int[] nums, int k) {
         Arrays.sort(nums);
-
         int low = 0;
         int high = nums[nums.length - 1] - nums[0];
+        int result = 0;
 
-        while (low < high) {
+        while(low<=high){
             int mid = low + (high - low) / 2;
 
-            // Count how many pairs have distance <= mid
-            int count = 0;
-            int left = 0;
-            for (int right = 0; right < nums.length; right++) {
-                while (nums[right] - nums[left] > mid) {
-                    left++;
-                }
-                count += right - left;
-            }
+            int countPair = slidingWindow(nums, mid);
 
-            // Adjust search space based on count
-            if (count < k) {
+            if(countPair<k){
                 low = mid + 1;
-            } else {
-                high = mid;
+
+            }else{
+                result = mid;
+                high = mid-1;
             }
         }
 
-        return low;
+        return result;
+
     }
 }
