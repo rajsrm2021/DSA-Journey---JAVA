@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0921-spiral-matrix-iii) |
 | [1293-three-consecutive-odds](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1293-three-consecutive-odds) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sliding Window
 |  |
 | ------- |
