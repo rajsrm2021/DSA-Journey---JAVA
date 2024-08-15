@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
