@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
