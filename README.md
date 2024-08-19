@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
+| [0650-2-keys-keyboard](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2645-pass-the-pillow](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2645-pass-the-pillow) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0650-2-keys-keyboard](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0650-2-keys-keyboard) |
 ## Interactive
 |  |
 | ------- |
