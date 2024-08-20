@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
