@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0921-spiral-matrix-iii) |
+| [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0650-2-keys-keyboard](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2645-pass-the-pillow](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2645-pass-the-pillow) |
 ## Binary Search
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0650-2-keys-keyboard](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -242,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
