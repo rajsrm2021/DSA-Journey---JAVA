@@ -22,9 +22,4 @@ public class Solution {
         return n - left; // Return the highest possible H-index found
     }
 
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        int[] citations = {6, 5, 3, 1, 0}; // Example array
-        System.out.println("H-index: " + sol.hIndex(citations)); // Output the H-index
-    }
 }
