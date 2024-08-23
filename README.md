@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0238-product-of-array-except-self) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3463-alternating-groups-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/3463-alternating-groups-i) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
 ## Game Theory
