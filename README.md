@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0169-majority-element) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
