@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0200-number-of-islands) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
