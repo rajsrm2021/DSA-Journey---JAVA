@@ -302,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0208-implement-trie-prefix-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
