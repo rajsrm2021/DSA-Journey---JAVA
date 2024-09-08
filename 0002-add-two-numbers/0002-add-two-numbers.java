@@ -19,18 +19,18 @@ class Solution {
         while(l1!=null || l2!=null){
             int sum = 0 + carry;
 
-            if(l1!=null){
+            if(l1 != null){
                 sum = sum + l1.val;
                 l1 = l1.next;
             }
 
-            if(l2!=null){
-                sum = sum + l2.val;
+            if(l2 != null){
+                 sum = sum + l2.val;
                 l2 = l2.next;
             }
+
             carry = sum/10;
-            sum = sum%10;
-            
+            sum = sum % 10;
 
             ptr.next = new ListNode(sum);
             ptr = ptr.next;
