@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0076-minimum-window-substring) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0045-jump-game-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0498-diagonal-traverse) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0037-sudoku-solver) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
