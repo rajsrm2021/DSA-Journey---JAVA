@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0147-insertion-sort-list) |
@@ -341,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
