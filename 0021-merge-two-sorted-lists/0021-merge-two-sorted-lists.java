@@ -27,12 +27,7 @@ class Solution {
             res = res.next;
         }
 
-
-        if(list1 == null){
-            res.next = list2;
-        }else{
-            res.next = list1;
-        }
+        res.next = (list1==null) ? list2 : list1;
 
         return head.next;
         
