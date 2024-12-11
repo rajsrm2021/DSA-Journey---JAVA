@@ -4,18 +4,20 @@ class Solution {
         int ans = nums[0];
         int count = 1;
 
-        for(int i=0;i<nums.length;i++){
+        for(int i=1;i<nums.length;i++){
+
             if(nums[i] != ans){
                 count--;
-                if(count==0){
+
+                if(count == 0){
                     ans = nums[i];
                     count = 1;
                 }
             }else{
-                count++;
+                count ++;
             }
         }
-
+        
         count = 0;
 
         for(int num: nums){
@@ -24,7 +26,7 @@ class Solution {
             }
         }
 
-        return count>nums.length/2 ? ans : -1;
-        
+
+        return count > nums.length/2 ? ans : -1;
     }
 }
