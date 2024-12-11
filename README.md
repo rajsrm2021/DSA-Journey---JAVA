@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0921-spiral-matrix-iii) |
 | [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-binary-search](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0792-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
