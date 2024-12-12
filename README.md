@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0543-diameter-of-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
