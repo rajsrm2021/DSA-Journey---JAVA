@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
