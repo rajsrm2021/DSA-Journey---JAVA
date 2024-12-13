@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1803-average-waiting-time) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
 | [3463-alternating-groups-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/3463-alternating-groups-i) |
 ## Matrix
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2645-pass-the-pillow) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
 ## Stack
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Quickselect
 |  |
 | ------- |
