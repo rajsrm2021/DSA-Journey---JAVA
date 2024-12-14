@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1803-average-waiting-time) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
 | [3463-alternating-groups-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/3463-alternating-groups-i) |
 ## Matrix
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
 ## Quickselect
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
 | [3463-alternating-groups-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/3463-alternating-groups-i) |
 ## Bucket Sort
 |  |
@@ -406,4 +409,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
