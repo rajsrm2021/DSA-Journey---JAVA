@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1803-average-waiting-time) |
+| [1917-maximum-average-pass-ratio](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1917-maximum-average-pass-ratio](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1917-maximum-average-pass-ratio) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
 ## Quickselect
