@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1502-construct-k-palindrome-strings) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0257-binary-tree-paths) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1502-construct-k-palindrome-strings) |
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Greedy
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1502-construct-k-palindrome-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1917-maximum-average-pass-ratio) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1502-construct-k-palindrome-strings) |
 ## Math
 |  |
 | ------- |
