@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1240-stone-game-ii) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [2050-count-good-numbers](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
