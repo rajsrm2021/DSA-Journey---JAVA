@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1803-average-waiting-time) |
 | [1917-maximum-average-pass-ratio](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1917-maximum-average-pass-ratio) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2846-robot-collisions](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
