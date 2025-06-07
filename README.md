@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0792-binary-search) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2868-continuous-subarrays](https://github.com/rajsrm2021/DSA-Journey---JAVA/tree/master/2868-continuous-subarrays) |
